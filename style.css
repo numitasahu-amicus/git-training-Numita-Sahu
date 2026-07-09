@@ -5,5 +5,13 @@ body{
 
 h1{
     color: blue;
-    
+
+}
+nav{
+    background:black;
+    color:white;
+}
+
+nav ul{
+    display:flex;
 }
