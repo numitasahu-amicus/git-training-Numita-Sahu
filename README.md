@@ -25,3 +25,9 @@ Ans :
 
 4. Commit the changes.
     git commit -m "remove ignored files"
+
+
+
+## Navigation Feature  ---> task 6 -> make changes
+
+Navigation feature will be merged from feature branch.
