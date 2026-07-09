@@ -1,0 +1,14 @@
+# IDE Files
+.vs/
+.vscode/
+.idea/
+ 
+# Build Output
+bin/
+obj/
+node_modules/
+dist/
+ 
+# Operating System Files
+.DS_Store
+Thumbs.db
