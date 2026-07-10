@@ -37,3 +37,6 @@ Navigation feature will be merged from feature branch.
 
 Task 6 : Switch back to main. Make a change to a DIFFERENT file than what you touched in the feature branch. Commit and push. Now merge "feature/add-navigation" into main. This should be a fast-forward merge (explain in README why it's fast-forward if it is, or why it wasn't). 
 Ans :: In Assignment mentions a fast-forward merge, a new commit was created on main before merging. Because both main and feature/add-navigation are differnt ,so  Git performed a 3-way merge instead of a fast-forward merge.
+
+
+##Task 8 -> Question :: Explain in README: When should you rebase vs merge? What's the golden rule of rebasing?  
