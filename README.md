@@ -47,3 +47,6 @@ Ans :: In Assignment mentions a fast-forward merge, a new commit was created on 
 --> Golden Rule of Rebasing
     ->  Never rebase commits that have already been pushed to a shared/public branch. Rebase changes commit history, which can cause problems for other people working on the same branch.
 
+
+
+## For task 11 --> make the quick fix example 
