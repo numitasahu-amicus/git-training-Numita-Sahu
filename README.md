@@ -39,4 +39,11 @@ Task 6 : Switch back to main. Make a change to a DIFFERENT file than what you to
 Ans :: In Assignment mentions a fast-forward merge, a new commit was created on main before merging. Because both main and feature/add-navigation are differnt ,so  Git performed a 3-way merge instead of a fast-forward merge.
 
 
-##Task 8 -> Question :: Explain in README: When should you rebase vs merge? What's the golden rule of rebasing?  
+## Task 8 -> Question :: Explain in README: When should you rebase vs merge? What's the golden rule of rebasing?  
+--> When should you rebase vs merge?
+    ->  Merge : Use Merge when working with shared or public branches. It combines changes without changing the existing commit history and is safe for team collaboration.
+        Rebase : Use Rebase on your local feature branch to update it with the latest changes from main. It creates a clean, linear commit history by replaying your commits on top of the latest branch.
+
+--> Golden Rule of Rebasing
+    ->  Never rebase commits that have already been pushed to a shared/public branch. Rebase changes commit history, which can cause problems for other people working on the same branch.
+
