@@ -1,11 +1,61 @@
-#Git training
+# Git Training Project
 
-Name : Numita Sahu
-Training batch : 2026
-Date : 09-07-2026
-Project Description:
-This project is created to practice Git and GitHub workflow
+**Name:** Numita Sahu  
+**Training Batch:** 2026  
+**Date:** 09-07-2026  
 
+## Project Description
+
+This project was created to practice Git and GitHub workflows. It covers both basic and advanced Git concepts through hands-on tasks and practical exercises.
+
+## Project Overview
+
+This repository was created as part of the Git Training assignment. It demonstrates the use of Git fundamentals and advanced Git features, including:
+
+- Git repository initialization
+- Branch creation and management
+- Merging and resolving merge conflicts
+- Rebasing and interactive rebase
+- Stashing changes
+- Cherry-picking commits
+- Reverting and resetting commits
+- Recovering commits using Git Reflog
+- Creating and managing Git tags
+- Pull Requests and code reviews
+- Git hooks
+- Git Blame for code history analysis
+
+
+
+##  Setup Instructions
+
+-> Clone the Repository
+
+```bash
+git clone <repository-url>
+```
+->  Open the Project
+
+```bash
+cd git-training-Numita-Sahu
+code .
+```
+-> Check Git Configuration
+
+```bash
+git config --global user.name
+git config --global user.email
+```
+-> View Repository Status
+
+```bash
+git status
+```
+
+---
+
+
+# Tasks Related Question Answers
 
 #Task 2 ==> .gitignore assignment
 
