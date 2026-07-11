@@ -6,5 +6,5 @@ alert("Welcome to Git Training Project!");
 // commit 1 
 console.log("Git Training");
 
-//Commit 2
-console.log("Loading...");
+//Commit 2/3 log->lg
+console.lg("Loading...");
