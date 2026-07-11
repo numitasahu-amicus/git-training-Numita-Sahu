@@ -7,7 +7,7 @@ alert("Welcome to Git Training Project!");
 console.log("Git Training");
 
 //Commit 2/3 log->lg
-console.lg("Loading...");
+// console.lg("Loading..."); creating a bug for task 16 exercise 
 
 //commit 4
 console.log("Welcome");
