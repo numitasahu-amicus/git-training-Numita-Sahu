@@ -8,3 +8,6 @@ console.log("Git Training");
 
 //Commit 2/3 log->lg
 console.lg("Loading...");
+
+//commit 4
+console.log("Welcome");
